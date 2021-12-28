@@ -25,9 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e10eb00-c11b-4607-bf44-3329ebec8df7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="0e10eb00-c11b-4607-bf44-3329ebec8df7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,8 +55,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -97,6 +98,14 @@
       <option name="presentableId" value="Default" />
       <updated>1640699655004</updated>
     </task>
+    <task id="LOCAL-00001" summary="Коммит тест">
+      <created>1640701194233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640701194233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,18 +132,42 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Коммит тест" />
+    <option name="LAST_COMMIT_MESSAGE" value="Коммит тест" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="486" y="57" key="CommitChangelistDialog2" timestamp="1640700696362">
+    <state x="486" y="57" key="CommitChangelistDialog2" timestamp="1640701193344">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="486" y="57" key="CommitChangelistDialog2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640700696362" />
+    <state x="486" y="57" key="CommitChangelistDialog2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640701193344" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1640700934851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640700934851" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1640700717194">
+    <state width="949" height="282" key="GridCell.Tab.0.bottom" timestamp="1640701149463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640700717194" />
+    <state width="949" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640701149463" />
+    <state width="949" height="282" key="GridCell.Tab.0.center" timestamp="1640701149463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640701149463" />
+    <state width="949" height="282" key="GridCell.Tab.0.left" timestamp="1640701149463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640701149463" />
+    <state width="949" height="282" key="GridCell.Tab.0.right" timestamp="1640701149463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640701149463" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1640701429250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640701429250" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1640701217102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640701217102" />
   </component>
 </project>
