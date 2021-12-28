@@ -55,6 +55,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640701194233</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавлена виртуальная среда">
+      <created>1640701509169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640701509169</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,14 +141,16 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Коммит тест" />
-    <option name="LAST_COMMIT_MESSAGE" value="Коммит тест" />
+    <MESSAGE value="Добавлена виртуальная среда" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлена виртуальная среда" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="486" y="57" key="CommitChangelistDialog2" timestamp="1640701193344">
+    <state x="486" y="57" key="CommitChangelistDialog2" timestamp="1640701506498">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="486" y="57" key="CommitChangelistDialog2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640701193344" />
+    <state x="486" y="57" key="CommitChangelistDialog2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640701506498" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1640700934851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -165,9 +175,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640701429250" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1640701217102">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1640701515863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640701217102" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1640701515863" />
   </component>
 </project>
